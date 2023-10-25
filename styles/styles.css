@@ -94,9 +94,10 @@ a {
 
 .input {
   border: none;
+  width: 300px;
   font-size: 1.4rem;
   font-weight: 300;
-  height: 3rem;
+  height: 4rem;
   margin-right: 1.6rem;
   padding: 0.4rem 0.8rem;
 }
@@ -106,7 +107,7 @@ a {
   align-items: baseline;
 }
 
-.checkbox > input {
+.checkbox>input {
   margin-right: 0.4rem;
 }
 
@@ -196,7 +197,7 @@ a {
   align-items: baseline;
 }
 
-.list-item__container > *:first-child {
+.list-item__container>*:first-child {
   margin-right: 0.8rem;
 }
 
