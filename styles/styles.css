@@ -232,3 +232,7 @@ a {
 .empty-message {
   margin: 3.2rem 0;
 }
+
+.completed .todo-text {
+  text-decoration: line-through;
+}
