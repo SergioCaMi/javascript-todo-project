@@ -233,6 +233,7 @@ a {
   margin: 3.2rem 0;
 }
 
-.completed .todo-text {
+.completed .toDoText {
   text-decoration: line-through;
+  color:lightcoral;
 }
